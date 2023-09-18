@@ -1,0 +1,48 @@
+
+Username: Adrian   (delivery crew)
+Email: adrian@littlelemon.com
+Password: lemon@adr! 
+
+Username: Mario    (delivery crew)
+Email: mario@littlelemon.com
+Password: lemon@mar!
+ 
+Username: Sana     (delivery crew)
+Email: sana@littlelemon.com
+Password: lemon@san!
+
+Username: Huseyn    (customer) 
+Email: huseyn@littlelemon.com
+Password: lemon@hus!
+
+Username: Khayyam   (manager)
+Email: khayyam@littlelemon.com
+Password: lemon@khm!
+
+Username: Guler     (customer)
+Email: guler@littlelemon.com
+Password: lemon@gul!
+
+Username: Konul     (customer)
+Email: konul@littlelemon.com
+Password: lemon@kon!
+
+Username: John     (customer)
+Email: john@littlelemon.com
+Password: lemon@jhn!
+
+
+Username: admin
+Email: admin@littlelemon.com
+Password: admin@789!
+
+NOTE:   adding category:                       use [title] field
+	adding menu item:                      use [title, price, featured, category_id] fields
+	adding menuitem to cart:               use [menuitem_id, quantity] fields
+	updating order status:                 use [status] field
+	adding or removing user to/from group: use [username] field
+	adding order:                          there is no need any field, just send post request
+	registering new user:                  use [username, email, password] fields
+	creating user token:                   use [username, password] fields 
+
+Use Insomnia app.
